@@ -1,0 +1,5 @@
+model_checkpoint_path: "model-30"
+all_model_checkpoint_paths: "model-30"
+
+
+mmconvert -sf tensorflow -in model-30.meta -iw model-30.data-00000-of-00001 --dstNodeName MMdnn_Output -df caffe -om tf_pnet
