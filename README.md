@@ -1,5 +1,5 @@
 # tempRepo
-The model file is in the folder named .P_Net',
+The model file is in the folder named 'P_Net',
 and the whole error stack shows bellow:
 
 Parse file [model-30.meta] with binary format successfully.
